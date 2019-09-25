@@ -12,4 +12,16 @@
 
 ## 系统优化
 
+### 系统更新
+
+-   更新 Mac OS 系统至最新
+    -    -> `About This Mac` -> `Software Update`
+
+###  -> `System Preferences`
+
+-   `Dock`
+    -   取消 `Magnification`
+    -   Minimize windows using 选择 `Scale effect`
+    -   取消 `Animate opening applications`
+
 ## 常用 App 优化
