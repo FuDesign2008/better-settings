@@ -1,4 +1,4 @@
-# iPhone 优化设置
+# Mac 优化设置
 
 ## 说明
 
@@ -18,6 +18,10 @@
     -    -> `About This Mac` -> `Software Update`
 
 ###  -> `System Preferences`
+
+-   `General`
+
+    -   取消 `Allow Handoff between this Mac and your iCloud devices`
 
 -   `Dock`
     -   取消 `Magnification`
