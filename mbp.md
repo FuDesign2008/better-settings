@@ -28,4 +28,24 @@
     -   Minimize windows using 选择 `Scale effect`
     -   取消 `Animate opening applications`
 
+## 使用命令优化
+
+使用命令自动执行优化，详情见 `./mbp/better.sh`
+
+## 使用优化软件
+
+### 挑选软件的原则
+
+1. 安全可靠
+1. 免费
+1. 不需要注册
+
+### 列表
+
+1. [OnyX](https://www.titanium-software.fr/en/onyx.html)
+    - mac os 不同版本需要安装不同的 dmg
+1. [AppCleaner](http://freemacsoft.net/appcleaner/)
+1. [Disk Inventory X](http://www.derlien.com/)
+1. [CClearner](https://www.ccleaner.com/ccleaner-mac)
+
 ## 常用 App 优化
