@@ -28,6 +28,15 @@
     -   Minimize windows using 选择 `Scale effect`
     -   取消 `Animate opening applications`
 
+### 网络优化
+
+-   `` -> `系统偏好设置` -> `网络`
+
+#### 参考
+
+-   https://www.zhihu.com/question/20380794
+-   [如何在 Mac 上使用网络位置 - Apple 支持](https://support.apple.com/zh-cn/HT202480)
+
 ## 使用命令优化
 
 使用命令自动执行优化，详情见 `./mbp/better.sh`
