@@ -27,6 +27,10 @@
     -   取消 `Magnification`
     -   Minimize windows using 选择 `Scale effect`
     -   取消 `Animate opening applications`
+    -   取消 `Automatically hide and show the Dock`
+-   `Accessibility`
+    -   `Display`, 勾选 `Reduce transparency`
+    -   `Display`, 勾选 `Reduce Motion`
 
 ### 网络优化
 
