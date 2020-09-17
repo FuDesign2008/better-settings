@@ -20,9 +20,7 @@
 ###  -> `System Preferences`
 
 -   `General`
-
     -   取消 `Allow Handoff between this Mac and your iCloud devices`
-
 -   `Dock`
     -   取消 `Magnification`
     -   Minimize windows using 选择 `Scale effect`
@@ -31,6 +29,9 @@
 -   `Accessibility`
     -   `Display`, 勾选 `Reduce transparency`
     -   `Display`, 勾选 `Reduce Motion`
+-   `Spotlight`: 关闭该功能
+    -   `Search Results`: 取消该选项卡下的所有选项
+    -   `Privacy`: 将整个 home 文件夹添加到阻止位置
 
 ### 网络优化
 
