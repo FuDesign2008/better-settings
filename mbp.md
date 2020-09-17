@@ -47,7 +47,17 @@
 
 ## 使用命令优化
 
+### 普通模式
+
 使用命令自动执行优化，详情见 `./mbp/better.sh`
+
+### 关闭 System Integrity Protection 后
+
+1. 关闭 System Integrity Protection
+    - 参考 https://www.technipages.com/macos-system-integrity-protection
+1. 运行 `./mbp/better_pro.sh`
+1. 开启 System Integrity Protection
+    - 参考 https://www.technipages.com/macos-system-integrity-protection
 
 ## 使用优化软件
 
