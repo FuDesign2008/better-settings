@@ -6,4 +6,3 @@
 
 -   iPhone : `./iphone.md`
 -   Mac book pro : `./mbp.md`
--   Kindle Paperwhite: `./kpw.md`
