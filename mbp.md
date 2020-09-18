@@ -31,7 +31,7 @@
     -   `Display`, 勾选 `Reduce Motion`
 -   `Spotlight`: 关闭该功能
     -   `Search Results`: 取消该选项卡下的所有选项
-    -   `Privacy`: 将整个 home 文件夹添加到阻止位置
+    -   `Privacy`: 将整个硬盘添加到阻止位置
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
 -   关闭定位服务
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
