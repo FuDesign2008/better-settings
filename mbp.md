@@ -37,6 +37,7 @@
         -   开启 `sudo mdutil -ai on`
         -   参考 https://gist.github.com/sartan/6091010d3e43eea8e37fd0e0c33dde24
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
+    -   从主菜单移除 Spotlight: https://discussions.apple.com/thread/250065431
 -   关闭定位服务
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
 -   关闭`蓝牙` 功能
