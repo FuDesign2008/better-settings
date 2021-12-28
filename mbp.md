@@ -2,7 +2,7 @@
 
 ## 说明
 
--   以下设置优化基于 MBP-15
+-   以下设置优化基于 Macbook Air M1
 
 ## 优化原则
 
@@ -32,6 +32,10 @@
 -   `Spotlight`: 关闭该功能
     -   `Search Results`: 取消该选项卡下的所有选项
     -   `Privacy`: 将整个硬盘添加到阻止位置
+    -   清除缓存: `sudo mdutil -Ea`
+        -   关闭: `sudo mdutil -ai off`
+        -   开启 `sudo mdutil -ai on`
+        -   参考 https://gist.github.com/sartan/6091010d3e43eea8e37fd0e0c33dde24
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
 -   关闭定位服务
     -   参考 https://support.apple.com/zh-hk/guide/mac-help/mchl62db64f5/mac#:~:text=On%20your%20Mac%2C%20choose%20Apple,Spotlight%2C%20then%20click%20Search%20Results.&text=Deselect%20the%20%E2%80%9CAllow%20Spotlight%20Suggestions%20in%20Look%20up%E2%80%9D%20checkbox.
